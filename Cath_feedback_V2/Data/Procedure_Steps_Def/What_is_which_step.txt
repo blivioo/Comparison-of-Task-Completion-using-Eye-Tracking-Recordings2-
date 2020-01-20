@@ -1,0 +1,47 @@
+Surgery-Steps	Abbreviations	
+Left leg (Artery)		
+		
+Localization of artery (with Us)	a	
+Localization of artery (with fingers)	b	
+Puncture of artery	c	
+Insertion of guide wire	d	
+Verifycation of access with fluoroscopy	e	
+Removal of needle	f	
+Insertion of catheter with dilator	g	
+Removal of guide wire and dilator	h	
+Flooding of catheter 	5	
+		
+		
+Individual steps at LL: 		
+(Removal of guide wire)	4	
+(Spreading of cut with tool)	k	
+(Removal of everything)	l	
+(Insertion of special, long dilator)	m	
+(Attachement of special pipe)	n	
+(Localization of artery with fluoroscopy)	o	
+(Catheterization of artrey skipped) 	p	
+(Switch back to LL and puncture vein there)	q	
+(Insertion of additional US probe in LL vein)	r	
+(Removal of dilator)	s	
+		
+Right Leg (Vein) 		
+		
+Attachment of needle to syringe 	t	
+Localization of vein (with Us)	u	
+Localization of artery (with fingers)	b	
+Puncture of vein	v	
+Removal of syringe	w	
+Insertion of guide wire	d	
+Verifycation of access with fluoroscopy	e	
+Removal of needle	f	
+Widening of puncture with scalpel	x	
+Insertion of TSP catheter	y	
+		
+		
+Individual steps at RL: 		
+(Removal of guide wire)	4	
+(Spreading of cut with tool)	k	
+(Insertion of sewing thread)	z	
+(Localization of vein with fluoroscopy) 	1	
+(Insertion of small dilator to widen access) 	2	
+(Insertion of large dilator to widen access) 	3	

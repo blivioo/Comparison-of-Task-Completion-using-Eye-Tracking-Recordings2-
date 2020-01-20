@@ -1,0 +1,6 @@
+Type:	Abbreviations:
+Pattern of AOI's: 	CBA
+AOI's: 	A
+AOI's: 	B
+AOI's: 	C
+AOI's: 	W

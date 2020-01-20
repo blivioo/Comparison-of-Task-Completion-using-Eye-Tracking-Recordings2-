@@ -1,0 +1,3 @@
+Templates	Sequences LL	Sequences RL
+T1	acdefgh5	tuvwdefxy
+T2	bcdefgh5	tbvwdefxy

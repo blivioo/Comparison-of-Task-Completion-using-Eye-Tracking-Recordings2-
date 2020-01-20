@@ -1,0 +1,4 @@
+Novice1	Sequences LL	Sequences RL
+P08_3	acdefgs54	tuvwxyefxy
+P19_3	acdefgh5	tuvwdefxy
+P31_3	acdefgh5	tuvwdefxy

@@ -1,0 +1,6 @@
+Surgery-Steps	Abbreviations	
+Localization of artery (with fingers)	b	
+Puncture of artery	c	
+Verifycation of access with fluoroscopy	e	
+Removal of needle before fluoro verification 	fe	
+Removal of dilator, then guide wire instead of both togheter 	s4	

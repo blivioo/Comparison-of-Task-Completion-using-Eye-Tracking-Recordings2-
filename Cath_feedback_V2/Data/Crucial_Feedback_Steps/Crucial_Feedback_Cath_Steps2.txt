@@ -1,0 +1,6 @@
+Surgery-Steps	Abbreviations
+Verifycation of access with fluoroscopy forgotten	e
+Puncture of vein more than once	v
+Widening of puncture with scalpel forgotten	x
+Removal of needle before fluoroscopy verification 	fe
+Localization of artery without US	b

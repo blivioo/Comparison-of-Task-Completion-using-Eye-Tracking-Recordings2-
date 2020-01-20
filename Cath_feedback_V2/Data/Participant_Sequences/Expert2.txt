@@ -1,0 +1,6 @@
+Expert2	Sequences LL	Sequences RL
+P11_2	acdefgh5	tubvwdefxkzy
+P12_2	acfbacdefgh5	utvwdefxky
+P13_2	bcde4de4fbcdefglbcdefgh5	tbvwdefxkzy
+P20_2	acdefgh5	tuqrtubvwdefxky
+P21_2	acdefgh5	tuvwdefxkzy

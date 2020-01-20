@@ -1,0 +1,5 @@
+Expert1	Sequences LL	Sequences RL
+P14_1	bcde4defgsm4n5	tbvwdefxy
+P15_1	bcde4d4fop	t1vwdefxy
+P16_1	acdfgh5	tuvwdfxzey
+P18_1	acdfgh5	tuvwdefzxy

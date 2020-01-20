@@ -1,0 +1,6 @@
+Surgery-Steps	Abbreviations
+Verifycation of access with fluoroscopy	e
+Puncture of vein	v
+Widening of puncture with scalpel	x
+Removal of needle before fluoro verification 	fe
+Localization of artery (with fingers)	b

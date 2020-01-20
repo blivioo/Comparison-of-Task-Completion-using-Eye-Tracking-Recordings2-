@@ -1,0 +1,6 @@
+Surgery-Steps	Abbreviations	
+Localization of artery without US	b	
+Puncture of artery more than once	c	
+Verifycation with fluoroscopy forgotten	e	
+Removal of needle before fluoroscopy verification 	fe	
+Removal of dilator, then guide wire instead of both togheter 	s4	
